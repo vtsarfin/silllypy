@@ -22,6 +22,7 @@ try:
             -m : returns own file name
 """
             )
+            exit()
         elif arg in ("-m", "--my_file"):
             print("Displaying file_name:", sys.argv[0])
         elif arg in ("-o", "--output"):
