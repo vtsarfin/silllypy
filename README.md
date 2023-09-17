@@ -4,7 +4,7 @@
 python3 sillypy.py --help
 ```
 
-Usage: 
+    Usage: 
             Simple python script: takes arguments, prints out .ini file.
             -h, --help: this help
             -o, --output= : prints out value
