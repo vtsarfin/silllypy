@@ -1,4 +1,4 @@
-# sillypy.py -- silly python for someci tests
+# sillypy.py -- silly python for some ci tests
 ## Usage:
 ```bash
 python3 sillypy.py --help
